@@ -3,4 +3,3 @@
 
 str = input() #선언
 print(str) #출력
-#졸령
